@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkspec_bright_website=globalThis.webpackChunkspec_bright_website||[]).push([[371],{1904(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"bdd-gherkin-editor-for-jira"}')}}]);

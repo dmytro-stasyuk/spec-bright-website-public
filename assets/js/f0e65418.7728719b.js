@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkspec_bright_website=globalThis.webpackChunkspec_bright_website||[]).push([[5780],{1331(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"bdd-for-jira-with-git"}')}}]);
